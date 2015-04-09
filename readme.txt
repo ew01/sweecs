@@ -4,7 +4,7 @@ Donate link:
 Tags: Star Wars, RPG, Edge of the Empire
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 4.1.1
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,10 +17,10 @@ Welcome to Star Wars Edge of the Empire Character Sheets for Wordpress
 Version 1.0
  In this version you will have the following:
 
-Registered users can create one character.
-Registered users can view their character.
-Registered users can edit their character.
-Registered users can see what dice they are allowed to roll for each skill.
+1. Registered users can create one character.
+1. Registered users can view their character.
+1. Registered users can edit their character.
+1. Registered users can see what dice they are allowed to roll for each skill.
 
 This plugin requires the user to be logged in to see the any of the pages it provides. No need for you to create hidden pages.
 
