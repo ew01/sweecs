@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Star Wars Edge of the Empire Character Sheets for Wordpress
+ * Plugin Name: Star Wars Edge of the Empire Character Sheets
  * Plugin URI:
  * Description: Create and maintain your SW: Edge of the empire characters. Mobile Friendly.
  * Author: David Ellenburg
@@ -21,7 +21,7 @@ function sweecs_admin() {
 function sweecs_information() {
 	//Gen Info
 	?>
-	<h1>Welcome to Star Wars Edge of the Empire Character Sheets for Wordpress</h1>
+	<h1>Welcome to Star Wars Edge of the Empire Character Sheets</h1>
 	<div>
 		<p>
 			You are currently running version 1.0. In this version you will have the following:

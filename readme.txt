@@ -1,4 +1,4 @@
-=== Star Wars Edge of the Empire Character Sheets for Wordpress ===
+=== Star Wars Edge of the Empire Character Sheets ===
 Contributors: EllenburgWeb
 Donate link:
 Tags: Star Wars, RPG, Edge of the Empire
@@ -12,7 +12,7 @@ Create and maintain your SW: Edge of the empire characters. Mobile Friendly.
 
 == Description ==
 
-Welcome to Star Wars Edge of the Empire Character Sheets for Wordpress
+Welcome to Star Wars Edge of the Empire Character Sheets
 
 Version 1.0
  In this version you will have the following:
