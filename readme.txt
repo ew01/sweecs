@@ -1,4 +1,4 @@
-=== SW: Edge of the Empire Character Sheets ===
+=== Star Wars: Edge of the Empire Character Sheets ===
 Contributors: Davell87
 Donate link:
 Tags: Star Wars, RPG, Edge of the Empire
